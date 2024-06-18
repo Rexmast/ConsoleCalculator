@@ -1,0 +1,14 @@
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\CalculatorSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\CalculatorSolution.AssemblyInfoInputs.cache
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\CalculatorSolution.AssemblyInfo.cs
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\CalculatorSolution.csproj.CoreCompileInputs.cache
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\bin\Debug\net6.0\CalculatorSolution.exe
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\bin\Debug\net6.0\CalculatorSolution.deps.json
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\bin\Debug\net6.0\CalculatorSolution.runtimeconfig.json
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\bin\Debug\net6.0\CalculatorSolution.dll
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\bin\Debug\net6.0\CalculatorSolution.pdb
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\CalculatorSolution.dll
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\refint\CalculatorSolution.dll
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\CalculatorSolution.pdb
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\CalculatorSolution.genruntimeconfig.cache
+C:\Users\Vitcore\Desktop\1\-ConsoleCalculator\CalculatorSolution\CalculatorSolution\obj\Debug\net6.0\ref\CalculatorSolution.dll
